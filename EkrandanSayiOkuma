@@ -1,0 +1,4 @@
+#python 3 ile EkrandanSayiOkuma
+
+sayi = int(input("Bir sayi giriniz    "))
+print("Girdiginiz sayi   ",sayi)
